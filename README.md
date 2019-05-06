@@ -24,6 +24,8 @@
     - Cao, Shaosheng, et al. "cw2vec: Learning chinese word embeddings with stroke n-gram information." Thirty-Second AAAI Conference on Artificial Intelligence. 2018.
 * [Radical Enhanced Chinese Word Embedding](ai/nlp/2018-ccl-radical-enhanced-chinese-word-embedding.pdf)
     - Chen, Zheng, and Keqi Hu. "Radical Enhanced Chinese Word Embedding." Chinese Computational Linguistics and Natural Language Processing Based on Naturally Annotated Big Data. Springer, Cham, 2018. 3-11.
+* [Which encoding is the best for text classification in chinese, english, japanese and korean?](ai/nlp/2017-arxiv-which-encoding-is-the-best-for-text-classification-in-chinese-english-japanese-and-korean.pdf)
+    - Zhang, Xiang, and Yann LeCun. "Which encoding is the best for text classification in chinese, english, japanese and korean?." arXiv preprint arXiv:1708.02657 (2017).
 
 
 ### Computer vision
