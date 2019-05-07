@@ -28,6 +28,8 @@
     - Chen, Zheng, and Keqi Hu. "Radical Enhanced Chinese Word Embedding." Chinese Computational Linguistics and Natural Language Processing Based on Naturally Annotated Big Data. Springer, Cham, 2018. 3-11.
 * [Which encoding is the best for text classification in chinese, english, japanese and korean?](ai/nlp/2017-arxiv-which-encoding-is-the-best-for-text-classification-in-chinese-english-japanese-and-korean.pdf)
     - Zhang, Xiang, and Yann LeCun. "Which encoding is the best for text classification in chinese, english, japanese and korean?." arXiv preprint arXiv:1708.02657 (2017).
+* [Learning Character-level Compositionality with Visual Features](ai/nlp/2017-acl-learning-character-level-compositionality-with-visual-features.pdf)
+    - Liu, Frederick, et al. "Learning Character-level Compositionality with Visual Features." Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2017.
 
 ### Computer vision
 
