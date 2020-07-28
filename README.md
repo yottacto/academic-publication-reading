@@ -36,6 +36,10 @@
 * [Deep Learning for Classical Japanese Literature](ai/cv/2018-arxiv-deep-learning-for-classical-japanese-literature.pdf)
     - Clanuwat, Tarin, et al. "Deep Learning for Classical Japanese Literature." arXiv preprint arXiv:1812.01718 (2018).
 
+### Recommender system
+
+* [Sampling-Bias-Corrected Neural Modeling for Large Corpus Item Recommendations](ai/rec/2019-recsys-sampling-bias-corrected-neural-modeling-for-large-corpus-item-recommendations.pdf)
+    - Yi, Xinyang, et al. "Sampling-bias-corrected neural modeling for large corpus item recommendations." Proceedings of the 13th ACM Conference on Recommender Systems. 2019.
 
 ## Systems
 
